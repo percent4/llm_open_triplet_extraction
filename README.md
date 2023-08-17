@@ -4,7 +4,7 @@
 
 ### 数据集
 
-![]()
+![](https://raw.githubusercontent.com/percent4/llm_open_triplet_extraction/main/data/triples_distribution.png)
 
 ### 模型训练
 
